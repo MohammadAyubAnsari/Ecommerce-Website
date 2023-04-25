@@ -1,0 +1,22 @@
+.navbar h1 {
+  font-family: "Times New Roman" !important;
+  font-size: 90px;
+  font-weight: bold;
+}
+
+.navbar p {
+  font-family: "Times New Roman" !important;
+  font-size: 20px;
+  /* font-weight: bold; */
+}
+
+.navbar l {
+  font-family: "Times New Roman" !important;
+  font-size: 15px;
+  /* font-weight: bold; */
+}
+
+.navbar label {
+  font-family: "Times New Roman" !important;
+  font-size: 50px;
+}
